@@ -14,3 +14,4 @@
 
 ' hw_1.3.3 Comprehensions.ipynb - робота з циклами в один рядок, що таке List Comrehension, Dist Comrehension, Set Comrehension (на виконання ДЗ пішло 1година 30 хв)
 
+' hw_1.3.4 Цикл while.ipynb - робота з циклами While, синтаксис циклу, що таке вкладені цикли, нескінченні цикли, управління циклами break, continue
