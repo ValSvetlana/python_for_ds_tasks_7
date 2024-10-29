@@ -10,7 +10,7 @@
 
 ' hw_1.2.4 If...else.ipynb робота з якщо... то..., (на виконання ДЗ пішло 30 хв)
 
-' 
+' hw_1.3.1-1.3.2 Цикл for.ipynb - робота з циклами for, яка його схема, range в циклі for, та його конструкція
 
 ' hw_1.3.3 Comprehensions.ipynb - робота з циклами в один рядок, що таке List Comrehension, Dist Comrehension, Set Comrehension (на виконання ДЗ пішло 1година 30 хв)
 
